@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NanJing on Universal</title>
-    <link>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/nanjing/</link>
+    <link>https://eicp-lab.github.io/categories/nanjing/</link>
     <description>Recent content in NanJing on Universal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Nov 2024 13:39:46 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/eicp-lab/hugo-universal-theme/categories/nanjing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eicp-lab.github.io/categories/nanjing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>International Society for Energy Transition Studies (ISETS)</title>
-      <link>http://localhost:1313/eicp-lab/hugo-universal-theme/blog/2024/11/01/international-society-for-energy-transition-studies-isets/</link>
+      <link>https://eicp-lab.github.io/blog/2024/11/01/international-society-for-energy-transition-studies-isets/</link>
       <pubDate>Fri, 01 Nov 2024 13:39:46 +0200</pubDate>
-      <guid>http://localhost:1313/eicp-lab/hugo-universal-theme/blog/2024/11/01/international-society-for-energy-transition-studies-isets/</guid>
+      <guid>https://eicp-lab.github.io/blog/2024/11/01/international-society-for-energy-transition-studies-isets/</guid>
       <description>&lt;p&gt;Lu Yangsiyu and PhD student Xiong Jiao attended the annual meeting of the International Energy Transition Association.&lt;/p&gt;&#xA;&lt;p&gt;In the Urban Construction Technology themed session, Dr. Yangsiyu Lu, assistant professor of CNCC trust at HKUST(GZ), was invited to be a guest speaker and share her latest research results on energy infrastructure transition.&lt;/p&gt;</description>
     </item>
   </channel>
