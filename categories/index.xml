@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Universal</title>
+    <link>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/</link>
+    <description>Recent content in Categories on Universal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Nov 2024 13:50:46 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/eicp-lab/hugo-universal-theme/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HKUST(GZ)</title>
+      <link>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/hkustgz/</link>
+      <pubDate>Mon, 18 Nov 2024 13:50:46 +0200</pubDate>
+      <guid>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/hkustgz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zhanjiang</title>
+      <link>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/zhanjiang/</link>
+      <pubDate>Sat, 16 Nov 2024 21:29:20 +0200</pubDate>
+      <guid>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/zhanjiang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yangjang</title>
+      <link>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/yangjang/</link>
+      <pubDate>Fri, 15 Nov 2024 21:29:20 +0200</pubDate>
+      <guid>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/yangjang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shanghai</title>
+      <link>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/shanghai/</link>
+      <pubDate>Sun, 10 Nov 2024 13:47:08 +0200</pubDate>
+      <guid>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/shanghai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ChengDu</title>
+      <link>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/chengdu/</link>
+      <pubDate>Sat, 09 Nov 2024 21:49:20 +0200</pubDate>
+      <guid>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/chengdu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tianjing</title>
+      <link>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/tianjing/</link>
+      <pubDate>Sat, 02 Nov 2024 13:47:08 +0200</pubDate>
+      <guid>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/tianjing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NanJing</title>
+      <link>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/nanjing/</link>
+      <pubDate>Fri, 01 Nov 2024 13:39:46 +0200</pubDate>
+      <guid>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/nanjing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guangzhou</title>
+      <link>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/guangzhou/</link>
+      <pubDate>Wed, 23 Oct 2024 13:39:46 +0200</pubDate>
+      <guid>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/guangzhou/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paries</title>
+      <link>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/paries/</link>
+      <pubDate>Fri, 04 Oct 2024 13:47:08 +0200</pubDate>
+      <guid>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/paries/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hong Kong</title>
+      <link>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/hong-kong/</link>
+      <pubDate>Sat, 13 Jul 2024 13:47:08 +0200</pubDate>
+      <guid>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/hong-kong/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Berlin</title>
+      <link>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/berlin/</link>
+      <pubDate>Thu, 27 Jun 2024 13:47:08 +0200</pubDate>
+      <guid>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/berlin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HKUST</title>
+      <link>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/hkust/</link>
+      <pubDate>Tue, 21 May 2024 13:47:08 +0200</pubDate>
+      <guid>http://localhost:1313/eicp-lab/hugo-universal-theme/categories/hkust/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
