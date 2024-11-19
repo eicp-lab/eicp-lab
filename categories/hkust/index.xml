@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HKUST on Universal</title>
-    <link>https://eicp-lab.github.io/eicp-lab/categories/hkust/</link>
+    <link>https://eicp-lab.github.io/categories/hkust/</link>
     <description>Recent content in HKUST on Universal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 May 2024 13:47:08 +0200</lastBuildDate>
-    <atom:link href="https://eicp-lab.github.io/eicp-lab/categories/hkust/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eicp-lab.github.io/categories/hkust/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Academic Seminar</title>
-      <link>https://eicp-lab.github.io/eicp-lab/blog/2024/05/21/academic-seminar/</link>
+      <link>https://eicp-lab.github.io/blog/2024/05/21/academic-seminar/</link>
       <pubDate>Tue, 21 May 2024 13:47:08 +0200</pubDate>
-      <guid>https://eicp-lab.github.io/eicp-lab/blog/2024/05/21/academic-seminar/</guid>
+      <guid>https://eicp-lab.github.io/blog/2024/05/21/academic-seminar/</guid>
       <description>&lt;p&gt;Professor Lu Yangsiyu was invited to give an academic report titled &amp;ldquo;Energy Infrastructure transition: carbon-intensive assets and investment patterns&amp;rdquo; at Divrsion of Public Policy in the Hong Kong University of Science and Technology.&lt;/p&gt;</description>
     </item>
   </channel>
