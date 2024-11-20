@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://eicp-lab.github.io/eicp-lab/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eicp-lab.github.io/eicp-lab/team/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eicp-lab.github.io/eicp-lab/team/lysy/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://eicp-lab.github.io/eicp-lab/blog/2024/11/18/academic-seminar11-18/</loc>
     <lastmod>2024-11-18T13:50:46+02:00</lastmod>
   </url><url>
@@ -12,9 +21,6 @@
     <lastmod>2024-11-18T13:50:46+02:00</lastmod>
   </url><url>
     <loc>https://eicp-lab.github.io/eicp-lab/categories/</loc>
-    <lastmod>2024-11-18T13:50:46+02:00</lastmod>
-  </url><url>
-    <loc>https://eicp-lab.github.io/eicp-lab/</loc>
     <lastmod>2024-11-18T13:50:46+02:00</lastmod>
   </url><url>
     <loc>https://eicp-lab.github.io/eicp-lab/categories/hkustgz/</loc>
@@ -110,10 +116,9 @@
     <loc>https://eicp-lab.github.io/eicp-lab/blog/2024/05/21/academic-seminar/</loc>
     <lastmod>2024-05-21T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>https://eicp-lab.github.io/eicp-lab/categories/hkust/</loc>
-    <lastmod>2024-05-21T13:47:08+02:00</lastmod>
-  </url><url>
     <loc>https://eicp-lab.github.io/eicp-lab/contact/</loc>
+  </url><url>
+    <loc>https://eicp-lab.github.io/eicp-lab/people/</loc>
   </url><url>
     <loc>https://eicp-lab.github.io/eicp-lab/publications/</loc>
   </url><url>
